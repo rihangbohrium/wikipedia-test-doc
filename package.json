@@ -1,0 +1,23 @@
+{
+  "name": "wikipedia-test-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rihangbohrium/wikipedia-test-doc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rihangbohrium/wikipedia-test-doc/issues"
+  },
+  "homepage": "https://github.com/rihangbohrium/wikipedia-test-doc#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-openapi-validate": "^0.6.1"
+  }
+}
